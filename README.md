@@ -1,5 +1,5 @@
 # TugasPraktikumML_141_169
-Praktikum kelompok Pembelajaran Mesin 7D
+Tugas Praktikum kelompok Pembelajaran Mesin 7D & Tugas Kelompok Teori Pembelajaran Mesin 7D
 
 Muhammad Risky pratama Hermawan - 201810370311141
 Fadhil Ahmad Wibiputra - 201810370311169
