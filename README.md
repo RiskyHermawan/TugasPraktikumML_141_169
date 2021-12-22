@@ -9,3 +9,5 @@ link dataset : https://drive.google.com/file/d/1PKEfGuwpX3KRoMHz-c6bf9SHMQ7RFZO0
 List tugas
 - Preprocessing data : Muhammad Risky Pratama Hermawan
 - Modeling data      : Muhammad Risky Pratama Hermawan 
+- Model 1            : Muhammad Risky Pratama Hermawan
+- Model 2            : Muhammad Risky Pratama Hermawan
