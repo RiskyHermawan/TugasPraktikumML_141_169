@@ -4,10 +4,12 @@ Tugas Praktikum kelompok Pembelajaran Mesin 7D & Tugas Kelompok Teori Pembelajar
 Muhammad Risky pratama Hermawan - 201810370311141
 Fadhil Ahmad W - 201810370311169
 
-link dataset : https://drive.google.com/file/d/1PKEfGuwpX3KRoMHz-c6bf9SHMQ7RFZO0/view?usp=sharing
+link dataset : https://www.kaggle.com/vipoooool/new-plant-diseases-dataset
+Link Deploy : https://drive.google.com/drive/folders/1quBKhCS0zfviKJnja0Z8z_0FFBd4szNn?usp=sharing
 
 List tugas
 - Preprocessing data : Muhammad Risky Pratama Hermawan
 - Modeling data      : Muhammad Risky Pratama Hermawan 
 - Model 1            : Muhammad Risky Pratama Hermawan
 - Model 2            : Muhammad Risky Pratama Hermawan
+- Deploy             : Muhammad Risky Pratama Hermawan
