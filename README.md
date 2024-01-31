@@ -11,5 +11,5 @@ List tugas
 - Preprocessing data : Muhammad Risky Pratama Hermawan
 - Modeling data      : Muhammad Risky Pratama Hermawan 
 - Model 1            : Muhammad Risky Pratama Hermawan
-- Model 2            : Fadhil Ahmad Wibiputra
-- Deploy             : Fadhil Ahmad Wibiputra
+- Model 2            : Muhammad Risky Pratama Hermawan
+- Deploy             : Muhammad Risky Pratama Hermawan
